@@ -3,7 +3,7 @@
 
 An AI agent that listens to meeting transcripts, summarizes key points, generates personalized to-do lists for each participant, and integrates with Gmail, Google Sheets, and Google Calendar to automate follow-ups.
 
-## 💡 Problem Statement
+##  Problem Statement
 To eliminate manual effort in tracking meetings, this agent automates:
 - Summarization of meetings (via GPT-4o)
 - Generation of participant-specific tasks
@@ -11,14 +11,14 @@ To eliminate manual effort in tracking meetings, this agent automates:
 - Storage in Google Sheets
 - Email follow-ups via Gmail
 
-## 🛠️ Tech Stack
+## Tech Stack
 - [n8n](https://n8n.io/)
 - Azure OpenAI (GPT-4o)
 - Google Calendar API
 - Gmail API
 - Google Sheets API
 
-## ⚙️ Workflow Overview
+##  Workflow Overview
 1. Receive meeting transcript via webhook
 2. Pass transcript to GPT-4o using Azure API
 3. Extract:
