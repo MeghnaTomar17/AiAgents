@@ -29,4 +29,3 @@ To eliminate manual effort in tracking meetings, this agent automates:
    - Append summary to Google Sheets
    - Create Calendar reminders for tasks
 
-## 🔁 AI Prompt Used
